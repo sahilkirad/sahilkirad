@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahilkirad
 - 👀 I’m interested in Coding!
-- 🌱 I’m currently learning C++,Python,Javascript
+- 🌱 I’m currently learning C++,Python,Javascript,Node js
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me..
 - 😄 Pronouns: ...
