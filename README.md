@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 Tech Stack (Clickable Icons)
+### 🚀 Tech Stack
 
 #### 🧠 AI / LLM & Agent Systems
 [![LangChain](https://img.shields.io/badge/LangChain-000?logo=chainlink&logoColor=white)](https://python.langchain.com/) 
@@ -76,66 +76,27 @@
 
 ---
 
-## 📊 GitHub Stats (Live)
+## 🎯 Areas of Expertise
 
-<p align="center">
-
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=sahilkirad&show_icons=true&theme=tokyonight" 
-       height="165" />
-
-  <img 
-       src="https://streak-stats.demolab.com?user=sahilkirad&theme=tokyonight" 
-       height="165" />
-
-</p>
-
-<p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkirad&layout=compact&theme=tokyonight" />
-</p>
-
+![AI](https://img.shields.io/badge/AI%20Engineering-000000?style=for-the-badge&logo=github)
+![LLMs](https://img.shields.io/badge/Large%20Language%20Models-800080?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-1E90FF?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic%20Systems-0B3D91?style=for-the-badge)
+![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-222222?style=for-the-badge)
 
 ---
 
-## 📌 Pinned Projects
+### ☁️ Cloud Platforms & Infra
 
-<p align="center">
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure%20Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-  <a href="https://github.com/sahilkirad/Code_Review_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilkirad&repo=Code_Review_Project&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/sahilkirad/Microsoft_Hackathon">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilkirad&repo=Microsoft_Hackathon&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/sahilkirad/Recommendation_Engine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilkirad&repo=Recommendation_Engine&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/sahilkirad/VeritasAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilkirad&repo=VeritasAI&theme=tokyonight" />
-  </a>
-
-</p>
-
+![Cloud Run](https://img.shields.io/badge/Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud)
+![Pub/Sub](https://img.shields.io/badge/Pub/Sub-4285F4?style=for-the-badge&logo=googlecloud)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 🌍 Community & Leadership
-- Google Agentic AI | EY Techathon | Mumbai Hacks
-- Built production-grade CI/CD + cloud native systems
-- Contributing to multi-LLM orchestration ecosystem
-
----
-
-## 🎓 Education
-B.Tech — Artificial Intelligence & Data Science  
-AISSMS Institute of Information Technology  
-CGPA 8.05 | Current SGPA 8.56
-
----
 
 ## 📬 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-kirad-288ab228a/)
